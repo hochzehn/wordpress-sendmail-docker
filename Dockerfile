@@ -1,4 +1,4 @@
-FROM wordpress
+FROM wordpress:apache
 
 RUN \
   #
